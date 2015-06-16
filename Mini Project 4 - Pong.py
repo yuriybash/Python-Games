@@ -1,9 +1,3 @@
-# Yuriy Bash
-# An Introduction to Interactive Programming in Python
-# Mini-Project 4: Pong
-# April 30, 2014
-# Implementation of classic arcade game Pong
-
 import simplegui
 import random
 
