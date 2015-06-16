@@ -1,8 +1,3 @@
-# Yuriy Bash
-# An Introduction to Interactive Programming in Python
-# Mini-project #6 - Blackjack
-# May 14, 2014
-
 import simplegui
 import random
 
