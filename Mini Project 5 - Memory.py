@@ -1,8 +1,3 @@
-# Yuriy Bash
-# An Introduction to Interactive Programming in Python
-# Mini-Project 5 - Memory
-# May 7, 2014
-# implementation of card game - Memory
 
 import simplegui
 import random
