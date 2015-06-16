@@ -1,7 +1,3 @@
-#Yuriy Bash
-#Intro to Interactive Programming Spring 2014
-# Mini-Project 8: RiceRocks
-# May 20, 2014
 # implementation of Spaceship - program template for RiceRocks
 import simplegui
 import math
