@@ -1,8 +1,3 @@
-# Yuriy Bash
-# An Introduction to Interactive Programming in Python
-# Mini-Project 3: Stopwatch: The Game
-# April 23, 2014
-
 import simplegui
 
 # define global variables
