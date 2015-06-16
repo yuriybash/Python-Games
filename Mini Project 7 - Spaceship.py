@@ -1,8 +1,3 @@
-# Yuriy Bash
-# An Introduction to Interactive Programming in Python
-# Mini-Project 7: Spaceship
-# May 18, 2014
-
 import simplegui
 import math
 import random
