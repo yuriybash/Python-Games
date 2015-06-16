@@ -1,10 +1,3 @@
-# Yuriy Bash
-# An Introduction to Interactive Programming in Python
-# Mini-Project 1: Guess The Number
-# April 16, 2014
-
-
-
 # input will come from buttons and an input field
 # all output for the game will be printed in the console
 
